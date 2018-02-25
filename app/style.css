@@ -1,0 +1,124 @@
+@import url("//fonts.googleapis.com/css?family=Lobster|Cabin:400,700");
+body{
+  font-family: 'Mukta Malar', sans-serif;
+}
+
+p.h{
+  font-family: 'Lobster', cursive;
+  font-size: 2.5em;
+  color: #20232A;
+}
+
+
+h1{
+  font-family: 'Lobster', cursive;
+  font-size: 1.8em;
+  font-weight: 650;
+  color: #4CB5F5;
+}
+h2 {
+  font-family: 'Lobster', cursive;
+  font-size: 2em;
+  font-weight: 650;
+  color: #C60000;
+}
+
+h3{
+  font-family: 'Nanum Pen Script', cursive;
+  line-height: 1;
+  font-size: 1.5em;
+  color: #D72C16;
+}
+
+h4{
+  font-family: 'Mukta Malar', sans-serif;
+  margin-left: 15px;
+  line-height: 0.9
+  font-size: 1em;
+  color: #20232A;
+}
+
+h5{
+  font-family: 'Nanum Pen Script', cursive;
+  line-height: 0.9;
+  font-size: 1.4em;
+  color: #ACBEBE;
+}
+
+h6{
+  line-height: 1;
+  font-size: 1.2em;
+  color: #20232A;
+}
+
+p.re{
+  font-family: 'Lobster', cursive;
+  font-size: 1.8em;
+  color: #EFB509;
+}
+
+p.cr{
+  font-family: 'Lobster', cursive;
+  font-size: 1.8em;
+  color: #113743;
+}
+
+p.ma{
+  font-family: 'Lobster', cursive;
+  font-size: 1.8em;
+  color: #5C821A;
+}
+
+p.ct{
+  font-family: 'Lobster', cursive;
+  font-size: 1.8em;
+  color: #A1D6E2;
+}
+
+p.ba{
+  font-family: 'Lobster', cursive;
+  font-size: 1.8em;
+  color: #F18D9E;
+}
+
+p.tr{
+  font-family: 'Lobster', cursive;
+  font-size: 1.8em;
+  color: #CE5A57;
+}
+
+
+
+div.first {
+    opacity: 0.1;
+    filter: alpha(opacity=10); /* For IE8 and earlier */
+}
+
+div.second {
+    opacity: 0.3;
+    filter: alpha(opacity=30); /* For IE8 and earlier */
+}
+
+div.third {
+    opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+/*
+@media screen and (max-width: 1000px) and (min-width: 700px) {
+    ul li a:before {
+        content: "Email: ";
+        font-style: italic;
+        color: #666666;
+    }
+}
+
+@media screen and (min-width: 1001px) {
+    ul li a:after {
+        content: " (" attr(data-email) ")";
+        font-size: 12px;
+        font-style: italic;
+        color: #666666;
+    }
+}
+*/
